@@ -2,7 +2,7 @@
 
 ### 💻 Full Stack Developer | Software Engineer | Tech Enthusiast
 
-I'm a passionate and detail-oriented developer with **over 3 years of experience** building modern web applications.
+I'm a passionate and detail-oriented developer with **over 1 year of experience** building modern web applications.
 I specialize in both frontend and backend development, delivering functional, scalable and visually appealing solutions.
 
 🌐 [Visit my portfolio](http://davdev.me)
