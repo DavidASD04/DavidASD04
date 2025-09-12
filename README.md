@@ -47,9 +47,8 @@ Git · GitHub · WordPress · REST APIs · CI/CD · AWS (basic usage)
 * **Frontend Developer at Quantech**
   Built and improved responsive web apps, and worked with SQL databases for data handling.
 
-* **Full Stack Developer at Lancegroup**
-  Created complete solutions using PHP, Laravel, Inertia and Angular.
-
+* **Full Stack Developer Freelancer**
+  I have created administrative systems for restaurants to e-commerce with modern technologies like React, Next, Node, etc.
 ---
 
 ## 🎓 Education & Certifications
