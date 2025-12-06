@@ -71,7 +71,7 @@ Git · GitHub · WordPress · REST APIs · CI/CD · AWS (basic usage)
 * 💡 I value clean code, elegant interfaces, and scalable architecture.
 * 🔍 Always learning and improving my skills.
 * 🤝 Open to collaboration and exciting new projects.
-* 🗣️ Fluent in Spanish (native), Catalan, and English.
+* 🗣️ Fluent in Spanish (native) and English.
 
 ---
 
