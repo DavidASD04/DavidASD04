@@ -1,0 +1,63 @@
+<svg width="1280" height="390" viewBox="0 0 1280 390" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">David Sánchez — Full Stack Developer</title>
+  <desc id="desc">Dark profile header for a software developer focused on business systems and AI automation.</desc>
+  <defs>
+    <linearGradient id="bg" x1="52" y1="20" x2="1194" y2="390" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#071224"/>
+      <stop offset="0.54" stop-color="#0F1D3A"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="1016" y1="49" x2="1193" y2="316" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#60A5FA"/>
+      <stop offset="0.55" stop-color="#2563EB"/>
+      <stop offset="1" stop-color="#7C3AED"/>
+    </linearGradient>
+    <linearGradient id="line" x1="104" y1="291" x2="874" y2="291" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#60A5FA"/>
+      <stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1090 190) rotate(90) scale(216)">
+      <stop stop-color="#2563EB" stop-opacity="0.34"/>
+      <stop offset="1" stop-color="#2563EB" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="blur" x="840" y="-60" width="500" height="500" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="38"/>
+    </filter>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" stroke="#93C5FD" stroke-opacity="0.055"/>
+    </pattern>
+  </defs>
+
+  <rect width="1280" height="390" rx="28" fill="url(#bg)"/>
+  <rect width="1280" height="390" rx="28" fill="url(#grid)"/>
+  <ellipse cx="1090" cy="190" rx="215" ry="215" fill="url(#glow)" filter="url(#blur)"/>
+
+  <g opacity="0.46">
+    <circle cx="76" cy="64" r="3" fill="#60A5FA"/>
+    <circle cx="114" cy="64" r="3" fill="#334155"/>
+    <circle cx="152" cy="64" r="3" fill="#334155"/>
+    <path d="M190 64H322" stroke="#334155" stroke-width="6" stroke-linecap="round"/>
+  </g>
+
+  <g font-family="Inter, Segoe UI, Arial, sans-serif">
+    <text x="84" y="139" fill="#93C5FD" font-size="16" font-weight="700" letter-spacing="4">FULL STACK DEVELOPER</text>
+    <text x="80" y="213" fill="#F8FAFC" font-size="64" font-weight="800" letter-spacing="-2">David Sánchez</text>
+    <text x="84" y="258" fill="#CBD5E1" font-size="21" font-weight="500">Business systems · Modern web products · AI automation</text>
+    <rect x="84" y="289" width="790" height="2" rx="1" fill="url(#line)"/>
+    <text x="84" y="329" fill="#94A3B8" font-size="17">Building useful software with clean architecture and intentional design.</text>
+  </g>
+
+  <g>
+    <rect x="938" y="108" width="250" height="208" rx="32" fill="#020617" fill-opacity="0.24"/>
+    <rect x="925" y="91" width="250" height="208" rx="32" fill="#0B1224" stroke="#334155" stroke-width="1.5"/>
+    <rect x="947" y="113" width="206" height="164" rx="23" fill="url(#accent)"/>
+    <circle cx="1050" cy="195" r="61" fill="#081224" fill-opacity="0.88"/>
+    <path d="M1022 176L994 195L1022 214" stroke="#BFDBFE" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M1078 176L1106 195L1078 214" stroke="#BFDBFE" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M1062 158L1038 232" stroke="#FFFFFF" stroke-width="10" stroke-linecap="round"/>
+    <circle cx="1128" cy="133" r="7" fill="#BFDBFE"/>
+    <circle cx="965" cy="258" r="5" fill="#DDD6FE"/>
+  </g>
+
+  <path d="M0 362C178 329 282 382 455 362C641 341 721 313 904 345C1054 371 1139 356 1280 329V390H0V362Z" fill="#2563EB" fill-opacity="0.1"/>
+</svg>

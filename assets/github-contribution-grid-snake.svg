@@ -1,0 +1,10 @@
+<svg width="1000" height="170" viewBox="0 0 1000 170" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Contribution animation pending first workflow run">
+  <rect width="1000" height="170" rx="18" fill="#F8FAFC" stroke="#CBD5E1"/>
+  <g fill="#E2E8F0">
+    <circle cx="64" cy="58" r="6"/><circle cx="84" cy="58" r="6"/><circle cx="104" cy="58" r="6"/><circle cx="124" cy="58" r="6"/><circle cx="144" cy="58" r="6"/>
+    <circle cx="64" cy="78" r="6"/><circle cx="84" cy="78" r="6"/><circle cx="104" cy="78" r="6"/><circle cx="124" cy="78" r="6"/><circle cx="144" cy="78" r="6"/>
+    <circle cx="64" cy="98" r="6"/><circle cx="84" cy="98" r="6"/><circle cx="104" cy="98" r="6"/><circle cx="124" cy="98" r="6"/><circle cx="144" cy="98" r="6"/>
+  </g>
+  <text x="500" y="78" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="700" fill="#0F172A">Contribution animation is ready to generate</text>
+  <text x="500" y="108" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#64748B">Run the “Generate contribution snake” workflow once.</text>
+</svg>
